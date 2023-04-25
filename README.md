@@ -1,1 +1,1 @@
-# lazycat_device_allowed
+hello
